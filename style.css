@@ -1,0 +1,23 @@
+.container-fluid {
+  padding-top: 30px;
+}
+
+.panel .panel-heading {
+  text-align: center;
+  background: #191919;
+  color: #fff;
+}
+
+.display {
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 25px;
+  padding-top: 3px;
+}
+
+.buttons {
+  padding-top: 10px;
+  padding-left: 40%;
+  padding-right: 30%;
+  display: inline-block;
+}
